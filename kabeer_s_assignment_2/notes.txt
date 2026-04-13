@@ -78,14 +78,3 @@ apparently i had to unhexdump first
 then decompress lots of time using gzip, bzip2 and tar
 FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
 
-Level 13:
-Read the article. understood nothing about ssh keys except host has public key and client has public and private both
-took private keay from server
-then generated local rsa key using ssh-keygen
-then inspected the files created in ~/.ssh
-pasted the private key in the id_rsa file (overwriting the one i generated myself)
-then man keygen
-found that -e flag allows me to generate corresponding public key file
-did that
-then got into bandit14
-
