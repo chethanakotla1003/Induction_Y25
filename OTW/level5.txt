@@ -1,0 +1,2 @@
+This was primarily a question to learn the find command, so I just used the link for find to learn how to use it then went
+through the criterion to arrive at : find -type f -size 1033c -readable ! -executable
